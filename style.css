@@ -11,7 +11,9 @@
 
 }
 .box{
-    background-color: rgb(66, 63, 246);
+    border: solid 3px rgb(240, 6, 6);
+    border-radius: 20px;
+    /* background-color: rgb(66, 63, 246); */
     width: 31%;
     height: 100%; 
     padding: 20px;
@@ -29,10 +31,10 @@ h2{
     text-align: center;
 }
 p{
-    color: white;
+    color: rgb(0, 0, 0);
 }
 ul{
-    color: white;
+    color: rgb(0, 0, 0);
 }
 .text{
     color: green;
